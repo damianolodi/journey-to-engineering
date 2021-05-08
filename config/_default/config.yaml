@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Damiano Lodi # Website name
-baseurl: 'https://damianolodi.com/' # Website URL
+title: Journey to Engineering # Website name
+baseurl: 'https://journeytoengineering.com/' # Website URL
 copyright: >-
   &copy; Damiano Lodi, {year} - Made using <a href="https://github.com/damianolodi/damianolodi" target="_blank" rel="noopener"><i class="fas fa-code-branch"></i></a>, <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> and the <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a> theme. Hosted on <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.
 
