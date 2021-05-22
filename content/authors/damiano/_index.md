@@ -6,7 +6,7 @@ title: Damiano Lodi
 superuser: true
 
 # Role/position
-role: Researcher
+role: R&D
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a physics graduate with a strong interest in business and practical application of modern technology.
 
 #interests:
 #- Artificial Intelligence
@@ -38,25 +38,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/damianolodi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/damiano-lodi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a physics graduate currently working at LEOS, where we research and develop single-frequency lasers for high-precision spectroscopy. Even though applied research is my main job, I have a strong interest in the business side of modern technologies, and I always enjoy learning about new innovative companies and startups. My main interest is geared toward innovation in technology and AI to address climate change and environmental conservation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I enjoy painting miniature models and tasting new teas from all over the world. This is my way to briefly stop nowadays frenetic life and reorganize ideas before going back to work with even more energy towards my goals.
