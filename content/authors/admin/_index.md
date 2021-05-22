@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damiano Lodi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: LEOS s.r.l.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
