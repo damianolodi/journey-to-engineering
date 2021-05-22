@@ -16,7 +16,7 @@ weight: 10  # Order that this section will appear.
 
 
 item:
-  - title: Journey to Enginering
+  - title: Journey to Engineering
     content: ':triangular_ruler: A blog on all-things engineering. :computer:'
     # Choose `center`, `left`, or `right` alignment.
     align: center
