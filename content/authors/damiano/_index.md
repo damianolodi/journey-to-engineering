@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a physics graduate with a strong interest in business and practical application of modern technology.
+bio: Physics graduate, embedded developer, carnivorous plants enthusiast. On my way towards "full stack" engineering.
 
 #interests:
 #- Artificial Intelligence
@@ -38,6 +38,9 @@ bio: I am a physics graduate with a strong interest in business and practical ap
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: cv
+  icon_pack: ai
+  link: "https://damianolodi.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/damianolodi
@@ -46,14 +49,18 @@ social:
   link: https://www.linkedin.com/in/damiano-lodi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: "https://damianolodi.com"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-I am a physics graduate currently working at LEOS, where we research and develop single-frequency lasers for high-precision spectroscopy. Even though applied research is my main job, I have a strong interest in the business side of modern technologies, and I always enjoy learning about new innovative companies and startups. My main interest is geared toward innovation in technology and AI to address climate change and environmental conservation.
+My name is Damiano and I am the author of this blog. If you want to know more about me personally, you can [visit my portfolio](https://damianolodi.com).
 
-In my free time, I enjoy painting miniature models and tasting new teas from all over the world. This is my way to briefly stop nowadays frenetic life and reorganize ideas before going back to work with even more energy towards my goals.
+The goal of this blog is to document my project and the various things I learn during their development or at my daily work. Every time I explore a new topic, I always try to dive deep into it, discovering new learning resources and best practices that can be helpful to others.
+
+I am trying to explore all aspects of engineering, but right now my particular focus is on embedded systems and project management, two skills that are most useful at my day job.
+
+I hope you will find this blog helpful and informative. Feel free to contact me if you have comments or if you spot any errors.
