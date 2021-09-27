@@ -59,7 +59,7 @@ social:
 
 My name is Damiano and I am the author of this blog. If you want to know more about me personally, you can [visit my portfolio](https://damianolodi.com).
 
-The goal of this blog is to document my project and the various things I learn during their development or at my daily work. Every time I explore a new topic, I always try to dive deep into it, discovering new learning resources and best practices that can be helpful to others.
+The goal of this blog is to document my projects and the various things I learn during their development or at my daily work. Every time I explore a new topic, I always try to dive deep into it, discovering new learning resources and best practices that can be helpful to others.
 
 I am trying to explore all aspects of engineering, but right now my particular focus is on embedded systems and project management, two skills that are most useful at my day job.
 
