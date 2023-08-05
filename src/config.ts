@@ -21,9 +21,21 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Mail",
+    href: "mailto:damiano.lodi.93@gmail.com",
+    linkTitle: `Send an email to Damiano`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/damianolodi/journey-to-engineering",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: `Damiano on Github`,
+    active: true,
+  },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/damiano-lodi/",
+    linkTitle: `Damiano on LinkedIn`,
     active: true,
   },
   {
@@ -36,18 +48,6 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: false,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/damiano-lodi/",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
   {
