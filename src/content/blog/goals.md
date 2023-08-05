@@ -3,7 +3,7 @@ author: Damiano Lodi
 pubDatetime: 2020-01-03T12:00:00+01:00
 title: My 2020 Goals
 postSlug: 2020-goals
-featured: true
+featured: false
 draft: false
 tags:
   - personal growth
